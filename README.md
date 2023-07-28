@@ -23,5 +23,7 @@ Django REST API intigration with Machine Learning
 <h3>python manage.py runserver</h3>
 <hr>
 <p><strong>Send Request and show response</strong></p>
+
+<h2><a href="https://aiwithr.github.io/resources/?fbclid=IwAR3O8X61J-ZWfsUVXgVptfxUOyriGDqAC-UIwbXHANmJIjlHmUsE69l4b44">Data Science link with Rakibul Hasan</a></h2>
     
  
