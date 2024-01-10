@@ -4,5 +4,5 @@
     
  
 Provlem Solving: 
-<h6><a href="https://prezi.com/p/y6_fn1kcpbot/glassers-seven-step-to-effective-problem-solving/"></a></h6>
+<h6><a href="https://prezi.com/p/y6_fn1kcpbot/glassers-seven-step-to-effective-problem-solving/"> Glassers 7</a></h6>
 <h5>ostad and InterviewBit</h5> 
